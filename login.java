@@ -1,6 +1,5 @@
 public void main(arg [] string)
 {
-	username=get.username()
-	password=get.password()
-	return name;
+	for(int i=100;i<n;i++)
+		system.out.println(i)
 }
